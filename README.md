@@ -1,7 +1,7 @@
 
 # Overview:
 
-This project intends to find the shortest path from point to point when given the coordinates of a graph. It will provide the shortest path in the console, but open a display which presents a drawn line from point to point, indicating the shortest path.
+This project reads a set of coordinates from a file and computes the shortest path connecting all points, using a local search algorithm to approximate a solution to the Traveling Salesman Problem (TSP). The calculated path is printed in the console, showing the order of points visited and the total cost. Additionally, a graphical window is launched to visually display the points and the resulting shortest path connecting them.
 
 # Features:
 
